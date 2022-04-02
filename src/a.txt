@@ -1,0 +1,8 @@
+name=liwang
+age=23
+
+
+class=java.util.Date
+
+
+该文件在源码带中获取不到 运行的代码在target/classes/a.txt
